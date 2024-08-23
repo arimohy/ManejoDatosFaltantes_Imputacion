@@ -23,6 +23,9 @@ pandas
 scipy
 seaborn
 session-info
-sklearn
+scikit-learn
 statsmodels
 upsetplot
+janitor
+matplotlib
+nbformat
